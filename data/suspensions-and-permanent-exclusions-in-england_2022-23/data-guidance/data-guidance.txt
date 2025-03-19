@@ -1,0 +1,58 @@
+Suspensions and permanent exclusions in England
+2022/23 Academic year
+
+Description
+
+This page describes the data included in the ‘Suspensions and Permanent Exclusions in England: 2022/23’ accredited official statistics release’s underlying data files. This data is released under the terms of the Open Government License (opens in a new tab) (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and is intended to meet at least 3 stars for Open Data (opens in a new tab) (https://www.gov.uk/government/publications/2010-to-2015-government-policy-government-transparency-and-accountability/2010-to-2015-government-policy-government-transparency-and-accountability#appendix-3-releasing-data-in-open-and-anonymised-formats).
+
+The publication methodology, available on the publication report, should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+Coverage
+
+This release provides information on exclusions in:
+
+- state-funded primary schools
+- state-funded secondary schools
+- special schools (including non-maintained special schools)
+- alternative provision (including pupil referral units)
+
+The information is based on data collected via the school census
+
+File formats and conventions
+
+Rounding
+
+This dataset has not had rounding or suppression applied.
+
+Conventions
+
+The following convention is used throughout the underlying data.
+
+‘z’ Not applicable.
+
+Data files
+
+Permanent exclusions and suspensions - school level (2015/16 to 2022/23)
+
+Filename: exc_school.csv
+Geographic levels: School
+Time period: 2006/07 to 2022/23
+Content summary: Number and percentage of suspensions and permanent exclusions and those pupils receiving one or more suspension, school level.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name       |  Variable description
+------------------  |  ---------------------------------------------------------
+headcount           |  Headcount
+num_schools         |  Number of schools
+one_plus_susp       |  Pupil enrolments with one or more suspension
+one_plus_susp_rate  |  Pupil enrolments with one or moresuspension (rate)
+perm_excl           |  Permanent exclusions
+perm_excl_rate      |  Permanent exclusions (rate)
+school_type         |  School Type - State-funded primary, secondary and special
+susp_rate           |  Suspension (rate)
+suspension          |  Suspensions
+
+Footnotes:
+
+1. For 2019/20 and 2020/21, while suspensions and permanent exclusions were possible throughout the academic year, pandemic restrictions will have had an impact on the numbers presented and caution should be taken when comparing across years.
