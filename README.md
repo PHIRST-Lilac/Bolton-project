@@ -19,8 +19,11 @@ In this analysis, we employ synthetic control methods to examine the impact of c
 
 ## ▶️ How to Run the Analysis
 
-1. Download the package from the GitHub repository.  
-2. Run the scripts in the specified order to process the data, construct the synthetic control model, and generate the results.
+1. Clone or download this repository to your local machine.  
+2. Run the R scripts in the `/script` folder **in order**.  
+   Some of the input data files are too large to be hosted on GitHub.  
+   These files will need to be **manually downloaded** by following the links provided in the script comments.  
+3. The scripts will process the data, construct the synthetic control model, and generate the results.
 
 ---
 
